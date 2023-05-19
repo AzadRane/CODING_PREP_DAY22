@@ -1,0 +1,6 @@
+Object cloning is nothing but making a copy of an object 
+2 types of clong 
+1.shallow copy -> if object contains refernce data type they sahre the data 
+2. deep copy-> if the object wants his individual properties then we use deeep copy.
+We use Cloneable interface to clone the object and write the or provide the code for 
+clone() method.
